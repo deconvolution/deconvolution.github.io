@@ -1,24 +1,14 @@
-##
 using Documenter,pweb
 
 makedocs(
-    modules=[pweb],
-    authors="Yi Zhang",
-    sitename="Yi Zhang",
-    format=Documenter.HTML(;
-        prettyurls=get(ENV, "CI", "false") == "true",
-    ),
-    pages=[
-        "Home" => "index.md"
-        ],
+    sitename = "pweb",
+    format = Documenter.HTML(),
+    modules = [pweb]
 )
 
-deploydocs(;
-    repo="github.com/deconvolution/personal_page.git",
-    branch = "gh-pages",
-    target = "build",
-    devbranch = "main",
-    devurl = "dev",
-    forcepush=true,
-    push_preview =true
-)
+# Documenter can also automatically deploy documentation to gh-pages.
+# See "Hosting Documentation" and deploydocs() in the Documenter manual
+# for more information.
+#=deploydocs(
+    repo = "<repository url>"
+)=#
