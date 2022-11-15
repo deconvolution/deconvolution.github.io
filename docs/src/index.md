@@ -1,4 +1,4 @@
-# Home.
+# Home
 
 Name: Yi Zhang
 
