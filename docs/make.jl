@@ -9,7 +9,7 @@ makedocs(
         prettyurls=get(ENV, "CI", "false") == "true",
     ),
     pages=[
-        "Home" => "index.md",
+        "Home" => "index.md"]
 )
 
 deploydocs(;
