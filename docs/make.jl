@@ -1,22 +1,15 @@
 ##
-using Documenter,RTI
+using Documenter,pweb
 
 makedocs(
-    modules=[RTI],
+    modules=[pweb],
     authors="Yi Zhang",
-    sitename="RTI",
+    sitename="pweb",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
     ),
     pages=[
         "Home" => "index.md",
-        "Forward problems"=>"Forward problems.md",
-        "Inverse problems" => Any[
-        "A toy model" =>"A toy model.md"
-        "Crati"=>"Crati.md"],
-        "Utilities"=>"Utilities.md",
-        "List of functions" =>"list_of_functions.md"
-        ],
 )
 
 deploydocs(;
