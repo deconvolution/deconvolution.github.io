@@ -2,7 +2,7 @@
 
 Name: Yi Zhang
 
-Position: PhD candidate
+Position: PhD candidate (June 2022 - December 2023)
 
 Institute: [Max Planck Graduate Center with the Johannes Gutenberg University at Mainz](https://www.mpgc-mainz.de/9583/Students), Germany
 
