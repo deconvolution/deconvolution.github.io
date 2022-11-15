@@ -5,12 +5,10 @@ Name: Yi Zhang
 Institute: [Max Planck Graduate Center with the Johannes Gutenberg University at Mainz](https://www.mpgc-mainz.de/9583/Students), Germany
 
 I am a geophysicist specialising in elastic waves, including forward and inverse problems. My interests includes
-<ul>
-  <li>Elastic wave equation</li>
-  <li>Eikonal equation</li>
-  <li>Numerical methods</li>
-  <li>Inverse problems</li>
-</ul>
+- Elastic wave equation
+- Eikonal equation
+- Numerical methods
+- Inverse problems
 
 I am currently actively developing some packages.
 
