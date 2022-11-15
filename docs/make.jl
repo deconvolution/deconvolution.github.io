@@ -13,7 +13,7 @@ makedocs(
 )
 
 deploydocs(;
-    repo="github.com/deconvolution/pweb.git",
+    repo="github.com/deconvolution/deconvolution.github.io.git",
     branch = "gh-pages",
     target = "build",
     devbranch = "main",
