@@ -2,7 +2,7 @@
 using Documenter,pweb
 
 makedocs(
-    modules=[personal_page],
+    modules=[pweb],
     authors="Yi Zhang",
     sitename="Yi Zhang",
     format=Documenter.HTML(;
