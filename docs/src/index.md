@@ -14,8 +14,7 @@ I am a geophysicist specialising in elastic waves, including forward and inverse
 - Numerical methods
 - Inverse problems
 
-I am currently actively developing some packages.
+I am currently actively developing some packages,
+- A Julia package for anisotropic elastic wave equations (JSWAP). Click [here](https://github.com/deconvolution/JSWAP) for more.
 
-A Julia package for anisotropic elastic wave equations (JSWAP). Click [here](https://github.com/deconvolution/JSWAP) for more.
-
-A Julia package for travel time inversion RTI). Click [here](https://github.com/deconvolution/RTI) for more.
+- A Julia package for travel time inversion RTI). Click [here](https://github.com/deconvolution/RTI) for more.
